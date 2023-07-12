@@ -4,7 +4,7 @@ Perlu login via ssh ke VM:
 
 ```sh
 # lenovo.pem adalah nama file permission (key-pair) yang sudah dibuat sebelumnya
-ssh -i ~/lenovo.pem ubuntu@ec2-13-250-111-189.ap-southeast-1.compute.amazonaws.com
+ssh -i ~/alta-key.pem ubuntu@ec2-13-250-111-189.ap-southeast-1.compute.amazonaws.com
 ```
 
 ## [Sekali] Install docker
