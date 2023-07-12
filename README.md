@@ -40,7 +40,7 @@ Tambahkan inbound rule
 ## [Sekali] Git clone
 
 ```sh
-git clone https://github.com/goFrendiAsgard/alta-batch-3-ec2.git ~/app
+git clone https://github.com/milhamrk/alta.git ~/app
 ```
 
 ## [Sekali] Install go
