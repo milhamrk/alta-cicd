@@ -7,5 +7,5 @@ import (
 )
 
 func Hello(c echo.Context) error {
-	return c.String(http.StatusOK, "halo dunia 🌏")
+	return c.String(http.StatusOK, "halo bro 🌏")
 }
